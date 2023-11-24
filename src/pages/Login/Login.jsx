@@ -186,6 +186,7 @@ const handleLogin = async () => {
         <option value="vendor">vendor</option>
       </select>
       <button onClick={handleLogin}>Login</button>
+      
     </div>
   );
 };
